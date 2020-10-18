@@ -1,3 +1,3 @@
 # Platzi-example
 
-HELLO WORLD
+HELLO WORLD 2
